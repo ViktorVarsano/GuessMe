@@ -1,2 +1,2 @@
 # GuessMe
-Machine Learning app using InceptionV3 model
+Machine Learning iOS app using InceptionV3 model
